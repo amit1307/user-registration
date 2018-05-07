@@ -1,4 +1,4 @@
-package api.aowss.com;
+package api.aowss.com.security;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.AuthenticationException;

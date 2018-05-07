@@ -1,4 +1,4 @@
-package api.aowss.com;
+package api.aowss.com.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;

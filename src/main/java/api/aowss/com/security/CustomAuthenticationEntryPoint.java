@@ -1,5 +1,6 @@
-package api.aowss.com;
+package api.aowss.com.security;
 
+import api.aowss.com.ErrorHandler;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.authentication.www.BasicAuthenticationEntryPoint;
 import org.springframework.stereotype.Component;

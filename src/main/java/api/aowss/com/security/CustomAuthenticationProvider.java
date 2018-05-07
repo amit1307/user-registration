@@ -1,4 +1,4 @@
-package api.aowss.com;
+package api.aowss.com.security;
 
 import api.aowss.com.activities.AuthenticateUser;
 import org.springframework.context.annotation.Configuration;
